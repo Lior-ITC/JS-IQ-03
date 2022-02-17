@@ -28,15 +28,18 @@ yarn version
 - Run the command in the terminal :
 ```
 yarn install
+npm install
 ```
 - Start writing your code in the proper files.
 - To run a test for a specific exercise do:
 ```
 yarn test-nameOfTheFile
+npm run test-nameOfTheFile
 ```
 or
 ```
 yarn test
+npm run test
 ```
 to run all the tests.
 - Lastly, **don't forget to push your code.**
